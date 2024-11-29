@@ -1,0 +1,23 @@
+# Object Detection Course
+ 
+cvzone
+ultralytics
+hydra-core
+matplotlib
+numpy
+opencv-python
+Pillow
+PyYAML
+requests
+scipy
+torch
+torchvision
+tqdm
+# math
+filterpy
+playsound
+scikit-image
+# lap
+# pip install numpy==1.21.6
+# pip install --upgrade pip setuptools wheel
+# pip install lap --only-binary=:all:
